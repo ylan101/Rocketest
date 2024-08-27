@@ -1,3 +1,7 @@
+:root {
+    font-family: "Alice", serif;
+}
+
 body {
     background-image: url(assets/bg-image.jpg);
     background-size: cover;
@@ -15,4 +19,8 @@ body {
 
 img {
     border-radius: 16px;
+}
+
+h1, h2 {
+    color: #291B1A
 }
